@@ -1,3 +1,3 @@
 Algoritmo sin_titulo
-	Mostrar "hola mundo"
+	Mostrar "hola mundo nuevoo"
 FinAlgoritmo
